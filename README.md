@@ -75,6 +75,7 @@ Leaked system prompts, captured verbatim — the hidden instructions and rules t
 | Claude Opus 4.7 | [Claude Opus 4.7 system prompt](Anthropic/claude-opus-4.7.md) |
 | Claude Opus 4.6 | [Claude Opus 4.6 system prompt](Anthropic/claude-opus-4.6.md) · [No tools](Anthropic/claude-opus-4.6-no-tools.md) |
 | Claude Sonnet 4.6 | [Claude Sonnet 4.6 system prompt](Anthropic/claude-sonnet-4.6.md) · [No tools](Anthropic/claude-sonnet-4.6-no-tools.md) |
+| Claude Voice Mode | [Claude Voice Mode system prompt](Anthropic/claude-voice-mode.md) |
 | Injected reminders | [Claude.ai injected reminders](Anthropic/anthropic_reminders.md) |
 
 ### Claude Code system prompts
@@ -128,10 +129,11 @@ Leaked system prompts, captured verbatim — the hidden instructions and rules t
 
 | Model | Prompt |
 |-------|--------|
-| **Codex GPT-5.6** | [**Codex GPT-5.6 system prompt (Terra/Luna)**](OpenAI/Codex/gpt-5.6.md) · [Sol](OpenAI/Codex/gpt-5.6-sol.md) |
+| **Codex GPT-5.6** | [**Codex GPT-5.6 system prompt (Terra/Luna)**](OpenAI/Codex/gpt-5.6.md) · [Sol](OpenAI/gpt-5.6-sol.md) |
 | **Codex GPT-5.5** | [Codex GPT-5.5 system prompt](OpenAI/Codex/gpt-5.5.md) · [Full prompt](OpenAI/Codex/codex-full.md) · [Friendly](OpenAI/Codex/personality_friendly_gpt-5.5.md) · [Pragmatic](OpenAI/Codex/personality_pragmatic_gpt-5.5.md) |
 | Codex GPT-5.4 | [Codex GPT-5.4 system prompt](OpenAI/Codex/gpt-5.4.md) · [Mini](OpenAI/Codex/gpt-5.4-mini.md) |
 | Codex Spark | [Codex Spark system prompt](OpenAI/Codex/gpt-5.3-codex-spark.md) |
+| Codex Voice Agent | [Codex Desktop Realtime Voice Agent system prompt](OpenAI/Codex/codex-desktop-realtime-voice-agent.md) |
 | Codex modes | [Plan mode](OpenAI/Codex/plan_mode.md) · [Auto-review](OpenAI/Codex/codex-auto-review.md) · [Computer use](OpenAI/Codex/computer-use.md) · [Control Chrome](OpenAI/Codex/control-chrome.md) · [In-app browser](OpenAI/Codex/control-in-app-browser.md) |
 | Personas | [Friendly](OpenAI/Codex/personality_friendly.md) · [Pragmatic](OpenAI/Codex/personality_pragmatic.md) |
 
@@ -255,6 +257,7 @@ Leaked system prompts, captured verbatim — the hidden instructions and rules t
 
 | Model | Prompt |
 |-------|--------|
+| **Kimi K3** | [**Kimi K3 system prompt**](Kimi/kimi-3.md) |
 | **Kimi K2.6** | [**Kimi K2.6 system prompt**](Kimi/kimi-2.6.md) |
 
 ## DeepSeek
@@ -291,6 +294,7 @@ Leaked system prompts, captured verbatim — the hidden instructions and rules t
 
 | Product | Prompt |
 |---------|--------|
+| **Qwen 3.8 Max** | [**Qwen 3.8 Max system prompt**](Qwen/qwen3.8-max.md) |
 | Qwen 3.6 Plus | [Qwen 3.6 Plus system prompt](Qwen/qwen3.6-plus.md) |
 
 ## Misc system prompts
